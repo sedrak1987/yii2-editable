@@ -30,7 +30,6 @@ class EditableBootstrapAsset extends AssetBundle
         'yii\web\YiiAsset',
         'yii\bootstrap4\BootstrapPluginAsset',
     ];
-
     /**
      * Init object
      */
